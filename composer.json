@@ -26,10 +26,9 @@
             "think\\auth\\": "src/"
         }
     },
-    "repositories": {
-	    "packagist": {
-	        "type": "composer",
-	        "url": "https://packagist.org"
-	    }
-	}
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.x-dev"
+        }
+    }
 }
