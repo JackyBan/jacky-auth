@@ -4,13 +4,14 @@
     "homepage": "https://github.com/jackyban/jacky-auth",
     "type": "library",
     "license": "Apache-2.0",
+    "minimum-stability": "stable",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "darlingsky",
             "email": "jacky811@foxmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "support": {
         "issues": "https://github.com/jackyban/jacky-auth/issues"
     },
