@@ -1,7 +1,7 @@
 {
-    "name": "JackyBan/jacky-auth",
+    "name": "jackyban/jacky-auth",
     "description": "auth package for thinkphp5",
-    "homepage": "https://github.com/JackyBan/jacky-auth",
+    "homepage": "https://github.com/jackyban/jacky-auth",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "support": {
-        "issues": "https://github.com/JackyBan/jacky-auth/issues"
+        "issues": "https://github.com/jackyban/jacky-auth/issues"
     },
     "require": {
         "php": ">=5.4.0"
